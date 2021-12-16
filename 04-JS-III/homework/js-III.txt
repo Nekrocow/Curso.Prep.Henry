@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+· Arrays
+
+Los arrays son arreglos de datos, es decir, una lista de elementos que podemos utilizar haciendo referencia a esos elementos, sumándole elementos nuevos o quitándoselos. Esos elementos pueden ser secuencias de texto, números, valores lógicos o hasta funciones.

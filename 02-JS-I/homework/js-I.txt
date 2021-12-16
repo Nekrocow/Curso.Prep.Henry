@@ -1,0 +1,22 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	VARIABLES
+Funcionan como cajas donde guardamos cosas. Definimos una variable, por ejemplo var perro, y luego podemos declarar su valor, por ejemplo perro = can. Cada vez que invoquemos a la variable, nos devolverá el valor que contiene.
+
+	STRINGS
+Son secuencias de texto. Se escriben entre comillas simples. Los números escritos entre comillas se comportan como texto y no como números. Pero JS es flexible, así que puede reinterpretar algo así, en caso de que fuera equivocación, como lo que sí podría ser válido: '1' + 1 === 2.
+
+	FUNCIONES(argumentos, return)
+Las funciones permiten agrupar código para no tener que repetirlo cada vez que se quiere volver utilizar. Cuando se invoca una función, se le indican los argumentos que debe utilizar, y ejecuta acciones o devuelve un resultado.
+
+La sintaxis de una función es: 
+function [NOMBRE]([ARGUMENTOS POSIBLES])
+	[CÓDIGO]
+	return;
+Return sirve para indicar el final de la función dentro del cuerpo del código.
+
+	Declaraciones IF
+Permiten ramificar el flujo del código: si se cumple una condición (es decir, su valor es true), sigue un camino; en caso contrario, sigue otro. Pueden anidarse nuevas declaraciones if usando else if. Por ejemplo, preguntar si estoy cansado: si respondo que sí, me indica que me acueste a dormir; si respondo que no, que puedo seguir con mis actividades.
+
+	Valores booleanos (true, false)
+Son valores lógicos. True indica que una condición se cumple, false, que no se cumple. Por ejemplo, si digo que 2 + 2 === 4, entonces el resultado es true; si digo que el resultado es 5, el valor será false.

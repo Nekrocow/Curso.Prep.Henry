@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se
+lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero
+en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+OBJETOS: son contenedores de propiedades que aplican a un mismo dato o elemento.
+
+PROPIEDADES: son cualidades de un objeto, facetas o características. Cada una tiene un valor asignado según el objeto.
+
+MÉTODOS: permiten llamar a la propiedad de un objeto. Si son funciones, podemos invocarlas.
+
+BUCLE "FOR...IN": es un bucle que permite ver todas las propiedades de un objeto.
+
+NOTACIÓN (puntos vs corchetes): la de puntos es más rápida de escribir para conocer una propiedad de un objeto, pero
+usando los corchetes podemos usar variables para invocar una propiedad. Los puntos refieren literalmente a la propiedad,
+en cambio, los corchetes permiten referir a una variable que contenga el nombre de la propiedad.

@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu
+comprensión.
+
+* `prototype`
+* _Constructors_ (de Clases)
+
+PROTOTYPE: es un objeto base del que otros objetos en la misma cadena de prototipado pueden tomar métodos. Por ejemplo,
+si tengo un objeto "Perro" e invoco una propiedad ".dormir" que no tiene ese objeto, lo busca en el prototipo
+(supongamos, "Mamífero", que si tiene Mamífero.dormir).
+
+CONSTRUCTORS: el método especial constructor sirve para crear e inicializar un objeto creado a partir de una clase.
+Permite heredar sus propiedades y métodos a los objetos que estén vinculados.
